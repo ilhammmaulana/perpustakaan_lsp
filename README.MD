@@ -48,6 +48,10 @@ Ganti nama database kalian
 
    ![HALAMAN LOGIN](login.png)
 
+9. Berhasil Login ke dashboard
+
+   ![DASHBAORD](buku-menu.png)
+
 ### Kontak
 
 Jika kalian memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya melalui email atau media sosial yang tertera di profil saya.
