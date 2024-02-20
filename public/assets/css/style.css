@@ -1,0 +1,58 @@
+:root {
+    --primary: #611ccf;
+    --primary-darker: #5612c2;
+    --secondary: #3316d6;
+}
+
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Regular.ttf')
+}
+
+* {
+    margin: 0;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+section {
+    padding: 5rem 0;
+}
+
+.btn {
+    background-color: transparent;
+    padding: .7rem 1.2rem;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    transition: .2s all;
+}
+
+.btn.primary {
+    background-color: var(--primary);
+    color: #fff;
+}
+
+.btn.primary:hover {
+    background-color: var(--primary-darker);
+    transform: scale(1.05);
+}
+
+.input {
+    /* padding: .6rem .8rem; */
+    border: 1.3px solid #000;
+    border-radius: 4px;
+    outline: none;
+}
+
+
+
+.heading-primary {
+    color: var(--primary) !important;
+    font-weight: 600;
+}
+
+.text-none {
+    text-decoration: none;
+}
