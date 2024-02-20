@@ -3,18 +3,16 @@
 ## Peminjaman Buku
 
 By Ilham Maulana
-Goodluck
 
 ### 1. Fitur
 
-| Fitur  | User |
-| ------ | ---- |
-| Login  | X    |
-| Logout | X    |
-| Home   | X    |
-| Tambah | X    |
-| Edit   | X    |
-| Hapus  | X    |
+| Fitur          | Admin|
+| ------         | ---- |
+| Login          | X    |
+| Logout         | X    |
+| Buku CRUD      | X    |
+| Peminjaman CRUD| X    |
+| Students CRUD  | X    |
 
 ### 2. Design Database
 
@@ -38,7 +36,10 @@ Untuk menjalankan proyek, pastikan Anda telah melakukan langkah-langkah berikut:
 
 Ganti nama database kalian
 
-6. folder 'public' adalah folder utamanya
+6. folder 'public' adalah folder utamanya, Contoh mengakses url: 
+```
+    http://localhost/perpustakaan_lsp/public/
+```
 7. Buka di browser.
 
 8. Login ke dashboard mengunakan <br>
